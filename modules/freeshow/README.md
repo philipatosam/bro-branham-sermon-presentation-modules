@@ -25,8 +25,6 @@ Once imported, you have two ways to find a sermon:
 
 **Bottom text search** — Click the magnifying glass icon at the bottom of the Scriptures drawer to search by words across all 208,274 paragraphs. Type any phrase (e.g. *"faith is the substance"* or *"seventh seal"*) and it will return every matching paragraph across all sermons.
 
-> **Note:** The `Cmd/Ctrl+F` reference search bar does not currently work for this module due to a known bug in FreeShow's scripture search dependency. A fix has been submitted upstream. See the [main README](../../README.md#known-issues) for details.
-
 ## 📋 Module Details
 
 | Field | Value |
