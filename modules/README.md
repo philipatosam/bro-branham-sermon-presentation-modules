@@ -27,4 +27,4 @@ In every module, sermons follow a Bible-like structure so presentation software 
 | Each sermon | 1 Chapter |
 | Each paragraph | Verse (paragraph number = verse number) |
 
-This means a preacher can navigate to any sermon, jump to a specific paragraph by number, and display one paragraph per slide — the same way Scripture is displayed.
+This means you can navigate to any sermon, jump to a specific paragraph by number, and display one paragraph per slide or by your preference.
