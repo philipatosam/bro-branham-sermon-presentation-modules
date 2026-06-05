@@ -62,12 +62,13 @@ A preacher can navigate to any sermon, jump to a specific paragraph by number, a
 
 ```
 bro-branham-sermon-presentation-modules/
+├── converters/
+│   ├── to_freeshow.py         # Converter script (generate the .fsb yourself)
 ├── modules/
 │   ├── freeshow/
 │   │   ├── README.md          # FreeShow-specific import instructions
 │   │   └── warnings.txt       # 90 paragraphs flagged as unusually long
 │   └── README.md              # All modules overview
-├── to_freeshow.py             # Converter script (generate the .fsb yourself)
 ├── .gitignore
 ├── LICENSE
 └── README.md
