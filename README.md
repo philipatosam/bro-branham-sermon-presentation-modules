@@ -1,6 +1,6 @@
 # 🎛️ Bro. William Branham — Sermon Presentation Modules
 
-Ready-made modules for importing **1,206 sermons** by Brother William Marrion Branham directly into church presentation software. Download, import, and display Brother Branham's messages on screen during ministry — no coding required.
+Ready-made modules for importing **1,206 sermons** by Brother William Marrion Branham directly into church presentation software. Download, import, and display Brother Branham's messages on screen during service.
 
 ---
 
@@ -101,18 +101,6 @@ python3 to_freeshow.py \
 | `--output` | `../modules/freeshow/bro-branham-sermons.fsb` | Output file path |
 | `--limit N` | None | Process only first N sermons (for testing) |
 | `--warn-threshold N` | 3000 | Flag paragraphs longer than N characters |
-
----
-
-## ⚠️ Known Issues
-
-**FreeShow `Cmd/Ctrl+F` search bar** — The reference search bar does not currently autocomplete sermon titles. This is caused by a bug in FreeShow's `json-bible` dependency where book names containing digits are incorrectly filtered out.
-
-A fix has been submitted:
-- json-bible PR: https://github.com/ChurchApps/json-bible/pulls
-- FreeShow issue: https://github.com/ChurchApps/FreeShow/issues
-
-**Workaround:** Use the browse panel or the bottom text search icon instead (see [Searching in FreeShow](#-searching-in-freeshow) above).
 
 ---
 
