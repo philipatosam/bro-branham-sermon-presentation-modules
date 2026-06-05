@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Large module files — distributed via GitHub Releases instead
+modules/freeshow/*.fsb
+modules/videopsalm/*.xml
+modules/zefania/*.xml
